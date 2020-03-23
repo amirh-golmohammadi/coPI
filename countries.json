@@ -6,6 +6,7 @@
     "long": 100.992538,
     "lastConfirmed": 599,
     "lastDeaths": 1,
+    "lastRecovered": 44,
     "dates": [
       {
         "id": "5e79066f0b4ea6759aad16d6",
@@ -443,6 +444,7 @@
     "long": 138.25293,
     "lastConfirmed": 1086,
     "lastDeaths": 40,
+    "lastRecovered": 235,
     "dates": [
       {
         "id": "5e79066f0b4ea6759aad1751",
@@ -880,6 +882,7 @@
     "long": 103.819839,
     "lastConfirmed": 455,
     "lastDeaths": 2,
+    "lastRecovered": 144,
     "dates": [
       {
         "id": "5e79066f0b4ea6759aad17cc",
@@ -1317,6 +1320,7 @@
     "long": 84.25,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79066f0b4ea6759aad1847",
@@ -1754,6 +1758,7 @@
     "long": 112.5,
     "lastConfirmed": 1306,
     "lastDeaths": 10,
+    "lastRecovered": 139,
     "dates": [
       {
         "id": "5e7906700b4ea6759aad18c2",
@@ -2191,6 +2196,7 @@
     "long": -123.1207,
     "lastConfirmed": 1465,
     "lastDeaths": 21,
+    "lastRecovered": 10,
     "dates": [
       {
         "id": "5e7906700b4ea6759aad193d",
@@ -2628,6 +2634,7 @@
     "long": 134,
     "lastConfirmed": 1314,
     "lastDeaths": 7,
+    "lastRecovered": 88,
     "dates": [
       {
         "id": "5e7906700b4ea6759aad19b8",
@@ -3065,6 +3072,7 @@
     "long": 104.9167,
     "lastConfirmed": 84,
     "lastDeaths": 0,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906700b4ea6759aad1a33",
@@ -3502,6 +3510,7 @@
     "long": 81,
     "lastConfirmed": 82,
     "lastDeaths": 0,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e7906710b4ea6759aad1aae",
@@ -3939,6 +3948,7 @@
     "long": 9,
     "lastConfirmed": 24873,
     "lastDeaths": 94,
+    "lastRecovered": 266,
     "dates": [
       {
         "id": "5e7906710b4ea6759aad1b29",
@@ -4376,6 +4386,7 @@
     "long": 26,
     "lastConfirmed": 626,
     "lastDeaths": 1,
+    "lastRecovered": 10,
     "dates": [
       {
         "id": "5e7906710b4ea6759aad1ba4",
@@ -4813,6 +4824,7 @@
     "long": 54,
     "lastConfirmed": 153,
     "lastDeaths": 2,
+    "lastRecovered": 38,
     "dates": [
       {
         "id": "5e7906710b4ea6759aad1c1f",
@@ -5250,6 +5262,7 @@
     "long": 122,
     "lastConfirmed": 380,
     "lastDeaths": 25,
+    "lastRecovered": 17,
     "dates": [
       {
         "id": "5e7906710b4ea6759aad1c9a",
@@ -5687,6 +5700,7 @@
     "long": 78,
     "lastConfirmed": 396,
     "lastDeaths": 7,
+    "lastRecovered": 27,
     "dates": [
       {
         "id": "5e7906720b4ea6759aad1d15",
@@ -6124,6 +6138,7 @@
     "long": 12,
     "lastConfirmed": 59138,
     "lastDeaths": 5476,
+    "lastRecovered": 7024,
     "dates": [
       {
         "id": "5e7906720b4ea6759aad1d90",
@@ -6561,6 +6576,7 @@
     "long": 16,
     "lastConfirmed": 1934,
     "lastDeaths": 21,
+    "lastRecovered": 16,
     "dates": [
       {
         "id": "5e7906720b4ea6759aad1e0b",
@@ -6998,6 +7014,7 @@
     "long": -4,
     "lastConfirmed": 28768,
     "lastDeaths": 1772,
+    "lastRecovered": 2575,
     "dates": [
       {
         "id": "5e7906720b4ea6759aad1e86",
@@ -7435,6 +7452,7 @@
     "long": 4,
     "lastConfirmed": 3401,
     "lastDeaths": 75,
+    "lastRecovered": 263,
     "dates": [
       {
         "id": "5e7906720b4ea6759aad1f01",
@@ -7872,6 +7890,7 @@
     "long": 30,
     "lastConfirmed": 327,
     "lastDeaths": 14,
+    "lastRecovered": 56,
     "dates": [
       {
         "id": "5e7906730b4ea6759aad1f7c",
@@ -8309,6 +8328,7 @@
     "long": 35.8623,
     "lastConfirmed": 248,
     "lastDeaths": 4,
+    "lastRecovered": 8,
     "dates": [
       {
         "id": "5e7906730b4ea6759aad1ff7",
@@ -8746,6 +8766,7 @@
     "long": 44,
     "lastConfirmed": 233,
     "lastDeaths": 20,
+    "lastRecovered": 57,
     "dates": [
       {
         "id": "5e7906730b4ea6759aad2072",
@@ -9183,6 +9204,7 @@
     "long": 57,
     "lastConfirmed": 55,
     "lastDeaths": 0,
+    "lastRecovered": 17,
     "dates": [
       {
         "id": "5e7906730b4ea6759aad20ed",
@@ -9620,6 +9642,7 @@
     "long": 65,
     "lastConfirmed": 40,
     "lastDeaths": 1,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906730b4ea6759aad2168",
@@ -10057,6 +10080,7 @@
     "long": 50.55,
     "lastConfirmed": 332,
     "lastDeaths": 2,
+    "lastRecovered": 149,
     "dates": [
       {
         "id": "5e7906740b4ea6759aad21e3",
@@ -10494,6 +10518,7 @@
     "long": 47.75,
     "lastConfirmed": 188,
     "lastDeaths": 0,
+    "lastRecovered": 27,
     "dates": [
       {
         "id": "5e7906740b4ea6759aad225e",
@@ -10931,6 +10956,7 @@
     "long": 1.6596,
     "lastConfirmed": 201,
     "lastDeaths": 17,
+    "lastRecovered": 65,
     "dates": [
       {
         "id": "5e7906740b4ea6759aad22d9",
@@ -11368,6 +11394,7 @@
     "long": 15.2,
     "lastConfirmed": 254,
     "lastDeaths": 1,
+    "lastRecovered": 5,
     "dates": [
       {
         "id": "5e7906740b4ea6759aad2354",
@@ -11805,6 +11832,7 @@
     "long": 8.2275,
     "lastConfirmed": 7245,
     "lastDeaths": 98,
+    "lastRecovered": 131,
     "dates": [
       {
         "id": "5e7906740b4ea6759aad23cf",
@@ -12242,6 +12270,7 @@
     "long": 14.5501,
     "lastConfirmed": 3244,
     "lastDeaths": 16,
+    "lastRecovered": 9,
     "dates": [
       {
         "id": "5e7906750b4ea6759aad244a",
@@ -12679,6 +12708,7 @@
     "long": 35,
     "lastConfirmed": 1071,
     "lastDeaths": 1,
+    "lastRecovered": 37,
     "dates": [
       {
         "id": "5e7906750b4ea6759aad24c5",
@@ -13116,6 +13146,7 @@
     "long": 69.3451,
     "lastConfirmed": 776,
     "lastDeaths": 5,
+    "lastRecovered": 5,
     "dates": [
       {
         "id": "5e7906750b4ea6759aad2540",
@@ -13553,6 +13584,7 @@
     "long": -51.9253,
     "lastConfirmed": 1593,
     "lastDeaths": 25,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e7906750b4ea6759aad25bb",
@@ -13990,6 +14022,7 @@
     "long": 43.3569,
     "lastConfirmed": 54,
     "lastDeaths": 0,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e7906750b4ea6759aad2636",
@@ -14427,6 +14460,7 @@
     "long": 21.8243,
     "lastConfirmed": 624,
     "lastDeaths": 15,
+    "lastRecovered": 19,
     "dates": [
       {
         "id": "5e7906760b4ea6759aad26b1",
@@ -14864,6 +14898,7 @@
     "long": 21.7453,
     "lastConfirmed": 114,
     "lastDeaths": 1,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906760b4ea6759aad272c",
@@ -15301,6 +15336,7 @@
     "long": 8.4689,
     "lastConfirmed": 2383,
     "lastDeaths": 7,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906760b4ea6759aad27a7",
@@ -15738,6 +15774,7 @@
     "long": 24.9668,
     "lastConfirmed": 433,
     "lastDeaths": 3,
+    "lastRecovered": 64,
     "dates": [
       {
         "id": "5e7906760b4ea6759aad2822",
@@ -16175,6 +16212,7 @@
     "long": 25.0136,
     "lastConfirmed": 326,
     "lastDeaths": 0,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e7906760b4ea6759aad289d",
@@ -16612,6 +16650,7 @@
     "long": 12.4578,
     "lastConfirmed": 160,
     "lastDeaths": 20,
+    "lastRecovered": 4,
     "dates": [
       {
         "id": "5e7906770b4ea6759aad2918",
@@ -17049,6 +17088,7 @@
     "long": 27.9534,
     "lastConfirmed": 76,
     "lastDeaths": 0,
+    "lastRecovered": 15,
     "dates": [
       {
         "id": "5e7906770b4ea6759aad2993",
@@ -17486,6 +17526,7 @@
     "long": -19.0208,
     "lastConfirmed": 568,
     "lastDeaths": 1,
+    "lastRecovered": 36,
     "dates": [
       {
         "id": "5e7906770b4ea6759aad2a0e",
@@ -17923,6 +17964,7 @@
     "long": 23.8813,
     "lastConfirmed": 131,
     "lastDeaths": 1,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906770b4ea6759aad2a89",
@@ -18360,6 +18402,7 @@
     "long": -102.5528,
     "lastConfirmed": 251,
     "lastDeaths": 2,
+    "lastRecovered": 4,
     "dates": [
       {
         "id": "5e7906770b4ea6759aad2b04",
@@ -18797,6 +18840,7 @@
     "long": 174.886,
     "lastConfirmed": 66,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906780b4ea6759aad2b7f",
@@ -19234,6 +19278,7 @@
     "long": 8.6753,
     "lastConfirmed": 30,
     "lastDeaths": 0,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e7906780b4ea6759aad2bfa",
@@ -19671,6 +19716,7 @@
     "long": -7.6921,
     "lastConfirmed": 906,
     "lastDeaths": 4,
+    "lastRecovered": 5,
     "dates": [
       {
         "id": "5e7906780b4ea6759aad2c75",
@@ -20108,6 +20154,7 @@
     "long": 6.1296,
     "lastConfirmed": 798,
     "lastDeaths": 8,
+    "lastRecovered": 6,
     "dates": [
       {
         "id": "5e7906780b4ea6759aad2cf0",
@@ -20545,6 +20592,7 @@
     "long": 7.4167,
     "lastConfirmed": 23,
     "lastDeaths": 0,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906780b4ea6759aad2d6b",
@@ -20982,6 +21030,7 @@
     "long": 51.1839,
     "lastConfirmed": 494,
     "lastDeaths": 0,
+    "lastRecovered": 33,
     "dates": [
       {
         "id": "5e7906780b4ea6759aad2de6",
@@ -21419,6 +21468,7 @@
     "long": -78.1834,
     "lastConfirmed": 789,
     "lastDeaths": 14,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e7906790b4ea6759aad2e61",
@@ -21856,6 +21906,7 @@
     "long": 47.5769,
     "lastConfirmed": 65,
     "lastDeaths": 1,
+    "lastRecovered": 10,
     "dates": [
       {
         "id": "5e7906790b4ea6759aad2edc",
@@ -22293,6 +22344,7 @@
     "long": 45.0382,
     "lastConfirmed": 194,
     "lastDeaths": 0,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e7906790b4ea6759aad2f57",
@@ -22730,6 +22782,7 @@
     "long": -70.1627,
     "lastConfirmed": 202,
     "lastDeaths": 3,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906790b4ea6759aad2fd2",
@@ -23167,6 +23220,7 @@
     "long": 113.9213,
     "lastConfirmed": 514,
     "lastDeaths": 48,
+    "lastRecovered": 29,
     "dates": [
       {
         "id": "5e7906790b4ea6759aad304d",
@@ -23604,6 +23658,7 @@
     "long": -8.2245,
     "lastConfirmed": 1600,
     "lastDeaths": 14,
+    "lastRecovered": 5,
     "dates": [
       {
         "id": "5e79067a0b4ea6759aad30c8",
@@ -24041,6 +24096,7 @@
     "long": 1.5218,
     "lastConfirmed": 113,
     "lastDeaths": 1,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067a0b4ea6759aad3143",
@@ -24478,6 +24534,7 @@
     "long": 24.6032,
     "lastConfirmed": 139,
     "lastDeaths": 0,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067a0b4ea6759aad31be",
@@ -24915,6 +24972,7 @@
     "long": -7.0926,
     "lastConfirmed": 115,
     "lastDeaths": 4,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e79067a0b4ea6759aad3239",
@@ -25352,6 +25410,7 @@
     "long": 45,
     "lastConfirmed": 511,
     "lastDeaths": 0,
+    "lastRecovered": 16,
     "dates": [
       {
         "id": "5e79067a0b4ea6759aad32b4",
@@ -25789,6 +25848,7 @@
     "long": -14.4524,
     "lastConfirmed": 67,
     "lastDeaths": 0,
+    "lastRecovered": 5,
     "dates": [
       {
         "id": "5e79067b0b4ea6759aad332f",
@@ -26226,6 +26286,7 @@
     "long": -63.6167,
     "lastConfirmed": 225,
     "lastDeaths": 4,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e79067b0b4ea6759aad33aa",
@@ -26663,6 +26724,7 @@
     "long": -71.543,
     "lastConfirmed": 632,
     "lastDeaths": 1,
+    "lastRecovered": 8,
     "dates": [
       {
         "id": "5e79067b0b4ea6759aad3425",
@@ -27100,6 +27162,7 @@
     "long": 36.51,
     "lastConfirmed": 112,
     "lastDeaths": 0,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067b0b4ea6759aad34a0",
@@ -27537,6 +27600,7 @@
     "long": 31.1656,
     "lastConfirmed": 73,
     "lastDeaths": 3,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067b0b4ea6759aad351b",
@@ -27974,6 +28038,7 @@
     "long": 19.5033,
     "lastConfirmed": 131,
     "lastDeaths": 6,
+    "lastRecovered": 16,
     "dates": [
       {
         "id": "5e79067c0b4ea6759aad3596",
@@ -28411,6 +28476,7 @@
     "long": 9.55,
     "lastConfirmed": 37,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79067c0b4ea6759aad3611",
@@ -28848,6 +28914,7 @@
     "long": 19.1451,
     "lastConfirmed": 634,
     "lastDeaths": 7,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067c0b4ea6759aad368c",
@@ -29285,6 +29352,7 @@
     "long": 9,
     "lastConfirmed": 75,
     "lastDeaths": 3,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067c0b4ea6759aad3707",
@@ -29722,6 +29790,7 @@
     "long": 17.6791,
     "lastConfirmed": 126,
     "lastDeaths": 1,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e79067c0b4ea6759aad3782",
@@ -30159,6 +30228,7 @@
     "long": 14.9955,
     "lastConfirmed": 414,
     "lastDeaths": 2,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79067d0b4ea6759aad37fd",
@@ -30596,6 +30666,7 @@
     "long": 22.9375,
     "lastConfirmed": 274,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79067d0b4ea6759aad3878",
@@ -31033,6 +31104,7 @@
     "long": 90.4336,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79067d0b4ea6759aad38f3",
@@ -31470,6 +31542,7 @@
     "long": 11.5021,
     "lastConfirmed": 40,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79067d0b4ea6759aad396e",
@@ -31907,6 +31980,7 @@
     "long": -74.2973,
     "lastConfirmed": 231,
     "lastDeaths": 2,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e79067d0b4ea6759aad39e9",
@@ -32344,6 +32418,7 @@
     "long": -83.7534,
     "lastConfirmed": 134,
     "lastDeaths": 2,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e79067e0b4ea6759aad3a64",
@@ -32781,6 +32856,7 @@
     "long": -75.0152,
     "lastConfirmed": 363,
     "lastDeaths": 5,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067e0b4ea6759aad3adf",
@@ -33218,6 +33294,7 @@
     "long": 21.0059,
     "lastConfirmed": 222,
     "lastDeaths": 2,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067e0b4ea6759aad3b5a",
@@ -33655,6 +33732,7 @@
     "long": 19.699,
     "lastConfirmed": 185,
     "lastDeaths": 1,
+    "lastRecovered": 7,
     "dates": [
       {
         "id": "5e79067e0b4ea6759aad3bd5",
@@ -34092,6 +34170,7 @@
     "long": 0.8248,
     "lastConfirmed": 16,
     "lastDeaths": 0,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e79067e0b4ea6759aad3c50",
@@ -34529,6 +34608,7 @@
     "long": 14.3754,
     "lastConfirmed": 90,
     "lastDeaths": 0,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e79067f0b4ea6759aad3ccb",
@@ -34966,6 +35046,7 @@
     "long": -61.0242,
     "lastConfirmed": 37,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79067f0b4ea6759aad3d46",
@@ -35403,6 +35484,7 @@
     "long": 25.4858,
     "lastConfirmed": 187,
     "lastDeaths": 3,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e79067f0b4ea6759aad3dc1",
@@ -35840,6 +35922,7 @@
     "long": 73.2207,
     "lastConfirmed": 13,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79067f0b4ea6759aad3e3c",
@@ -36277,6 +36360,7 @@
     "long": 90.3563,
     "lastConfirmed": 27,
     "lastDeaths": 2,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e79067f0b4ea6759aad3eb7",
@@ -36714,6 +36798,7 @@
     "long": -58.4438,
     "lastConfirmed": 22,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906800b4ea6759aad3f32",
@@ -37151,6 +37236,7 @@
     "long": 20.1683,
     "lastConfirmed": 89,
     "lastDeaths": 2,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e7906800b4ea6759aad3fad",
@@ -37588,6 +37674,7 @@
     "long": 33.4299,
     "lastConfirmed": 95,
     "lastDeaths": 1,
+    "lastRecovered": 3,
     "dates": [
       {
         "id": "5e7906800b4ea6759aad4028",
@@ -38025,6 +38112,7 @@
     "long": 114.7277,
     "lastConfirmed": 88,
     "lastDeaths": 0,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e7906800b4ea6759aad40a3",
@@ -38462,6 +38550,7 @@
     "long": -105.020089,
     "lastConfirmed": 33272,
     "lastDeaths": 417,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906800b4ea6759aad411e",
@@ -38899,6 +38988,7 @@
     "long": -1.5616,
     "lastConfirmed": 75,
     "lastDeaths": 4,
+    "lastRecovered": 5,
     "dates": [
       {
         "id": "5e7906810b4ea6759aad4199",
@@ -39336,6 +39426,7 @@
     "long": 12.4534,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906810b4ea6759aad4214",
@@ -39773,6 +39864,7 @@
     "long": 103.8467,
     "lastConfirmed": 10,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906810b4ea6759aad428f",
@@ -40210,6 +40302,7 @@
     "long": -80.7821,
     "lastConfirmed": 245,
     "lastDeaths": 3,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906810b4ea6759aad430a",
@@ -40647,6 +40740,7 @@
     "long": 100,
     "lastConfirmed": 81397,
     "lastDeaths": 3265,
+    "lastRecovered": 72362,
     "dates": [
       {
         "id": "5e7906810b4ea6759aad4385",
@@ -41084,6 +41178,7 @@
     "long": 53,
     "lastConfirmed": 21638,
     "lastDeaths": 1685,
+    "lastRecovered": 7931,
     "dates": [
       {
         "id": "5e7906820b4ea6759aad4400",
@@ -41521,6 +41616,7 @@
     "long": 128,
     "lastConfirmed": 8897,
     "lastDeaths": 104,
+    "lastRecovered": 2909,
     "dates": [
       {
         "id": "5e7906820b4ea6759aad447b",
@@ -41958,6 +42054,7 @@
     "long": 2.462247,
     "lastConfirmed": 16176,
     "lastDeaths": 674,
+    "lastRecovered": 2206,
     "dates": [
       {
         "id": "5e7906820b4ea6759aad44f6",
@@ -42395,6 +42492,7 @@
     "long": 139.638,
     "lastConfirmed": 712,
     "lastDeaths": 8,
+    "lastRecovered": 325,
     "dates": [
       {
         "id": "5e7906820b4ea6759aad4571",
@@ -42832,6 +42930,7 @@
     "long": 9.317246,
     "lastConfirmed": 1514,
     "lastDeaths": 13,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906820b4ea6759aad45ec",
@@ -43269,6 +43368,7 @@
     "long": 15.473,
     "lastConfirmed": 1120,
     "lastDeaths": 1,
+    "lastRecovered": 6,
     "dates": [
       {
         "id": "5e7906830b4ea6759aad4667",
@@ -43706,6 +43806,7 @@
     "long": 121,
     "lastConfirmed": 169,
     "lastDeaths": 2,
+    "lastRecovered": 28,
     "dates": [
       {
         "id": "5e7906830b4ea6759aad46e2",
@@ -44143,6 +44244,7 @@
     "long": 108,
     "lastConfirmed": 113,
     "lastDeaths": 0,
+    "lastRecovered": 17,
     "dates": [
       {
         "id": "5e7906830b4ea6759aad475d",
@@ -44580,6 +44682,7 @@
     "long": 90,
     "lastConfirmed": 367,
     "lastDeaths": 0,
+    "lastRecovered": 16,
     "dates": [
       {
         "id": "5e7906830b4ea6759aad47d8",
@@ -45017,6 +45120,7 @@
     "long": 28.3699,
     "lastConfirmed": 94,
     "lastDeaths": 1,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906830b4ea6759aad4853",
@@ -45454,6 +45558,7 @@
     "long": -63.5887,
     "lastConfirmed": 24,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906840b4ea6759aad48ce",
@@ -45891,6 +45996,7 @@
     "long": -86.2419,
     "lastConfirmed": 26,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906840b4ea6759aad4949",
@@ -46328,6 +46434,7 @@
     "long": -2,
     "lastConfirmed": 5741,
     "lastDeaths": 282,
+    "lastRecovered": 67,
     "dates": [
       {
         "id": "5e7906840b4ea6759aad49c4",
@@ -46765,6 +46872,7 @@
     "long": 21.7587,
     "lastConfirmed": 30,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906840b4ea6759aad4a3f",
@@ -47202,6 +47310,7 @@
     "long": -5.5471,
     "lastConfirmed": 14,
     "lastDeaths": 0,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906840b4ea6759aad4aba",
@@ -47639,6 +47748,7 @@
     "long": -77.2975,
     "lastConfirmed": 16,
     "lastDeaths": 1,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e7906850b4ea6759aad4b35",
@@ -48076,6 +48186,7 @@
     "long": 35.2433,
     "lastConfirmed": 1236,
     "lastDeaths": 30,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906850b4ea6759aad4bb0",
@@ -48513,6 +48624,7 @@
     "long": -80,
     "lastConfirmed": 35,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906850b4ea6759aad4c2b",
@@ -48950,6 +49062,7 @@
     "long": -58.75,
     "lastConfirmed": 7,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906850b4ea6759aad4ca6",
@@ -49387,6 +49500,7 @@
     "long": 66.9237,
     "lastConfirmed": 60,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906850b4ea6759aad4d21",
@@ -49824,6 +49938,7 @@
     "long": 40.4897,
     "lastConfirmed": 11,
     "lastDeaths": 0,
+    "lastRecovered": 4,
     "dates": [
       {
         "id": "5e7906860b4ea6759aad4d9c",
@@ -50261,6 +50376,7 @@
     "long": 30.2176,
     "lastConfirmed": 2,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906860b4ea6759aad4e17",
@@ -50698,6 +50814,7 @@
     "long": -9.6966,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906860b4ea6759aad4e92",
@@ -51135,6 +51252,7 @@
     "long": 37.9062,
     "lastConfirmed": 15,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906860b4ea6759aad4f0d",
@@ -51572,6 +51690,7 @@
     "long": -61.7964,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906860b4ea6759aad4f88",
@@ -52009,6 +52128,7 @@
     "long": -55.7658,
     "lastConfirmed": 135,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906870b4ea6759aad5003",
@@ -52446,6 +52566,7 @@
     "long": -1.0232,
     "lastConfirmed": 24,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906870b4ea6759aad507e",
@@ -52883,6 +53004,7 @@
     "long": 18.4904,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906870b4ea6759aad50f9",
@@ -53320,6 +53442,7 @@
     "long": 55.492,
     "lastConfirmed": 7,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906870b4ea6759aad5174",
@@ -53757,6 +53880,7 @@
     "long": -61.2225,
     "lastConfirmed": 50,
     "lastDeaths": 0,
+    "lastRecovered": 1,
     "dates": [
       {
         "id": "5e7906870b4ea6759aad51ef",
@@ -54194,6 +54318,7 @@
     "long": -66.5897,
     "lastConfirmed": 70,
     "lastDeaths": 0,
+    "lastRecovered": 15,
     "dates": [
       {
         "id": "5e7906880b4ea6759aad526a",
@@ -54631,6 +54756,7 @@
     "long": 31.4659,
     "lastConfirmed": 4,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906880b4ea6759aad52e5",
@@ -55068,6 +55194,7 @@
     "long": 11.6094,
     "lastConfirmed": 5,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906880b4ea6759aad5360",
@@ -55505,6 +55632,7 @@
     "long": -90.2308,
     "lastConfirmed": 19,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906880b4ea6759aad53db",
@@ -55942,6 +56070,7 @@
     "long": 10.9408,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906880b4ea6759aad5456",
@@ -56379,6 +56508,7 @@
     "long": 29.8739,
     "lastConfirmed": 19,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906890b4ea6759aad54d1",
@@ -56816,6 +56946,7 @@
     "long": -60.9789,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906890b4ea6759aad554c",
@@ -57253,6 +57384,7 @@
     "long": -61.2872,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906890b4ea6759aad55c7",
@@ -57690,6 +57822,7 @@
     "long": -56.0278,
     "lastConfirmed": 5,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906890b4ea6759aad5642",
@@ -58127,6 +58260,7 @@
     "long": 20.903,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906890b4ea6759aad56bd",
@@ -58564,6 +58698,7 @@
     "long": 20.9394,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068a0b4ea6759aad5738",
@@ -59001,6 +59136,7 @@
     "long": 21.7587,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068a0b4ea6759aad57b3",
@@ -59438,6 +59574,7 @@
     "long": 10,
     "lastConfirmed": 6,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068a0b4ea6759aad582e",
@@ -59875,6 +60012,7 @@
     "long": 64.5853,
     "lastConfirmed": 43,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068a0b4ea6759aad58a9",
@@ -60312,6 +60450,7 @@
     "long": 5.614606,
     "lastConfirmed": 4216,
     "lastDeaths": 180,
+    "lastRecovered": 2,
     "dates": [
       {
         "id": "5e79068a0b4ea6759aad5924",
@@ -60749,6 +60888,7 @@
     "long": 2.3158,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068b0b4ea6759aad599f",
@@ -61186,6 +61326,7 @@
     "long": -9.4295,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068b0b4ea6759aad5a1a",
@@ -61623,6 +61764,7 @@
     "long": 46.1996,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068b0b4ea6759aad5a95",
@@ -62060,6 +62202,7 @@
     "long": 34.8888,
     "lastConfirmed": 12,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068b0b4ea6759aad5b10",
@@ -62497,6 +62640,7 @@
     "long": -59.5432,
     "lastConfirmed": 14,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068b0b4ea6759aad5b8b",
@@ -62934,6 +63078,7 @@
     "long": 19.3,
     "lastConfirmed": 21,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068c0b4ea6759aad5c06",
@@ -63371,6 +63516,7 @@
     "long": 74.7661,
     "lastConfirmed": 14,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068c0b4ea6759aad5c81",
@@ -63808,6 +63954,7 @@
     "long": 57.5,
     "lastConfirmed": 18,
     "lastDeaths": 1,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068c0b4ea6759aad5cfc",
@@ -64245,6 +64392,7 @@
     "long": 28.2833,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068c0b4ea6759aad5d77",
@@ -64682,6 +64830,7 @@
     "long": 42.5903,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068c0b4ea6759aad5df2",
@@ -65119,6 +65268,7 @@
     "long": -15.3101,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068d0b4ea6759aad5e6d",
@@ -65556,6 +65706,7 @@
     "long": -77.3963,
     "lastConfirmed": 4,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068d0b4ea6759aad5ee8",
@@ -65993,6 +66144,7 @@
     "long": 18.7322,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068d0b4ea6759aad5f63",
@@ -66430,6 +66582,7 @@
     "long": -88.8965,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068d0b4ea6759aad5fde",
@@ -66867,6 +67020,7 @@
     "long": 178.065,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068d0b4ea6759aad6059",
@@ -67304,6 +67458,7 @@
     "long": -85.2072,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068e0b4ea6759aad60d4",
@@ -67741,6 +67896,7 @@
     "long": 46.8691,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068e0b4ea6759aad614f",
@@ -68178,6 +68334,7 @@
     "long": -72.2852,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068e0b4ea6759aad61ca",
@@ -68615,6 +68772,7 @@
     "long": 17.8739,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068e0b4ea6759aad6245",
@@ -69052,6 +69210,7 @@
     "long": -23.0418,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068f0b4ea6759aad62c0",
@@ -69489,6 +69648,7 @@
     "long": 8.0817,
     "lastConfirmed": 2,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068f0b4ea6759aad633b",
@@ -69926,6 +70086,7 @@
     "long": 143.9555,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068f0b4ea6759aad63b6",
@@ -70363,6 +70524,7 @@
     "long": 30,
     "lastConfirmed": 3,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068f0b4ea6759aad6431",
@@ -70800,6 +70962,7 @@
     "long": -23.6167,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e79068f0b4ea6759aad64ac",
@@ -71237,6 +71400,7 @@
     "long": 125.56,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906900b4ea6759aad6527",
@@ -71674,6 +71838,7 @@
     "long": 39.7823,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906900b4ea6759aad65a2",
@@ -72111,6 +72276,7 @@
     "long": 32,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906900b4ea6759aad661d",
@@ -72548,6 +72714,7 @@
     "long": -61.371,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906900b4ea6759aad6698",
@@ -72985,6 +73152,7 @@
     "long": -61.679,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906900b4ea6759aad6713",
@@ -73422,6 +73590,7 @@
     "long": 35.529562,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906910b4ea6759aad678e",
@@ -73859,6 +74028,7 @@
     "long": 38.996815,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906910b4ea6759aad6809",
@@ -74296,6 +74466,7 @@
     "long": 125.727539,
     "lastConfirmed": 1,
     "lastDeaths": 0,
+    "lastRecovered": 0,
     "dates": [
       {
         "id": "5e7906910b4ea6759aad6884",
